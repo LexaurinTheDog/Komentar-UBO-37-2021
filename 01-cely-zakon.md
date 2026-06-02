@@ -2307,7 +2307,27 @@ Paragraf 63 ruší **část pátou ZVR** (§§ 118b–118j) — předchozí úpr
 >
 > *Zákon č. 304/2013 Sb., o veřejných rejstřících právnických a fyzických osob a o evidenci svěřenských fondů, ve znění zákona č. 87/2015 Sb., zákona č. 192/2016 Sb., zákona č. 298/2016 Sb., zákona č. 368/2016 Sb., zákona č. 460/2016 Sb., zákona č. 303/2017 Sb., zákona č. 287/2018 Sb. a zákona č. 33/2020 Sb., se mění takto:*
 >
-> *[…body 1–4 obsahují technické změny ZVR týkající se dálkového přístupu k evidenci svěřenských fondů a souvisejících pravidel…]*
+> *- 1. V § 65e odst. 4 se věta druhá nahrazuje větou „Ministerstvo spravedlnosti umožní dálkový přístup na žádost po prokázání totožnosti fyzické osoby, která má k údajům přistupovat, s využitím elektronické identifikace podle zákona upravujícího elektronickou identifikaci, nebo v případě orgánu veřejné moci také prostřednictvím ohlášení agendy podle zákona upravujícího základní registry.“.*
+>
+> *- 2. V § 65e odstavec 5 zní:*
+>
+> *„(5) Žádost o zřízení dálkového přístupu podle odstavce 4 lze Ministerstvu spravedlnosti zaslat pouze v elektronické podobě na formuláři, který Ministerstvo spravedlnosti uveřejní na svých internetových stránkách; žádost obsahuje*
+>
+> *  - a) označení žadatele,*
+>
+> *  - b) právní důvod pro zřízení dálkového přístupu,*
+>
+> *  - c) jméno, adresu místa pobytu a datum a místo narození fyzické osoby, která má k údajům přistupovat,*
+>
+> *  - d) popřípadě začátek nebo konec platnosti oprávnění fyzické osoby, která má k údajům přistupovat, ne delší než 2 roky ode dne jeho zřízení.“.*
+>
+> *- 3. V § 65e se doplňují odstavce 6 a 7, které znějí:*
+>
+> *„(6) Žádá-li o zřízení dálkového přístupu zpravodajská služba, prokázání totožnosti fyzické osoby, která má k údajům přistupovat, se neprovádí a údaje podle odstavce 5 písm. c) se do žádosti neuvádí.*
+>
+> *(7) Podrobnosti náležitostí, formu a datovou strukturu formuláře žádosti o zřízení dálkového přístupu stanoví Ministerstvo spravedlnosti vyhláškou.“.*
+>
+> *- 4. V § 65e se doplňují odstavce 8 až 10, které znějí:*
 
 **Výklad:**
 
