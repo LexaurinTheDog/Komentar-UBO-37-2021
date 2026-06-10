@@ -18,6 +18,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 151/2023 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738371) — 19. 12. 2024
+  > „…zákon o evidenci skutečných majitelů v první řadě provádí unijní směrnici o předcházení využívání finančního systému k praní peněz nebo financování terorismu 2015/849 a její změnovou směrnici 2018/843. … Požadavek na zápis do centrálního registru a na zpřístupnění (blíže konkretizovaných) vždy aktuálních údajů veřejnosti, povinným osobám a institucím ukládá členským státům v článku 30. Jedná se o jeden z nástrojů, jimiž má být účelu směrnice dosaženo, to včetně zajištění plnění těchto povinností účinnými, přiměřenými a odrazujícími opatřením nebo sankcemi"
+
 #### Transpoziční úvod (poznámka pod čarou 1)
 
 Poznámka pod čarou 1) označuje jako transpoziční tituly:
@@ -264,6 +269,11 @@ Definice v § 2 (zejména skutečný majitel, řetězení, větvení) jsou inter
 > *(7) Pro účely určení skutečného majitele investičního fondu v právní formě akciové společnosti s proměnným základním kapitálem se nepřihlíží k investičním akciím, ledaže stanovy spojují s těmito akciemi obdobné hlasovací právo jako u zakladatelských akcií.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Afs 300/2024 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739157) — 20. 2. 2025
+  > „…městský soud z úpravy obsažené v ZESM sice vycházel, pojem „skutečný spolumajitel“, použitý v čl. 5.4. výzvy, od zákonného pojmu „skutečný majitel“ nicméně správně odlišil. Vlastník, byť jen jediné akcie určité akciové společnosti, se proto automaticky nestává „skutečným majitelem“ takové společnosti ve smyslu ZESM…"
 
 #### Materiální vymezení skutečného majitele korporace (odst. 1)
 
@@ -2294,6 +2304,11 @@ Paragraf 28 vymezuje důvody odmítnutí návrhu (legitimace, náležitosti, sro
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 A 130/2024 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740319) — 12. 3. 2025
+  > „Důvodová zpráva k uvedeném ustanovení výslovně uvádí, že toto ustanovení stanovuje tzv. registrační princip s omezením vyšetřovací zásady, který je známý z § 90 zákona o veř. Rejstřících, což znamená, že soud hodnotí jednak formální požadavky na návrh (podle § 28 návrhu), jednak provádí, ale pouze omezeně, materiální přezkum návrhu. Soud neprovádí věcný přezkum skutkového a právního stavu, který je návrhem tvrzen. … Soud však musí posoudit, zda jsou tvrzené údaje dostatečně doloženy, zda je tvrzený stav podložen"
+
 #### Materiální přezkum
 
 Po formálním přezkumu (§ 28) následuje **materiální přezkum** — soud ověří, zda zapisované údaje skutečně vyplývají z předložených písemností nebo z propojených ISVS. Toto je důležitý rozdíl proti čistě formálnímu rejstříku: ESM **není** evidencí pouhých prohlášení, soud má aktivní přezkumnou roli.
@@ -2984,6 +2999,11 @@ U s. r. o. se automaticky propíše:
 - **a) Společník s podílem > 25 %** zapsaný v obchodním rejstříku jako FO (přímé vlastnictví);
 - **b) Skutečný majitel PO, která je společníkem s. r. o. s podílem > 25 %** (přes řetězec) — za podmínek odst. 7.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 151/2023 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738371) — 19. 12. 2024
+  > „…zákon o evidenci skutečných majitelů v první řadě provádí unijní směrnici o předcházení využívání finančního systému k praní peněz nebo financování terorismu 2015/849 a její změnovou směrnici 2018/843. … Požadavek na zápis do centrálního registru a na zpřístupnění (blíže konkretizovaných) vždy aktuálních údajů veřejnosti, povinným osobám a institucím ukládá členským státům v článku 30. Jedná se o jeden z nástrojů, jimiž má být účelu směrnice dosaženo, to včetně zajištění plnění těchto povinností účinnými, přiměřenými a odrazujícími opatřením nebo sankcemi"
+
 #### § 38 odst. 2 — akciová společnost
 
 U a. s. propis je **užší**: pouze **jediný akcionář** (a. s. typu „one-man company"). Důvod: u běžné a. s. s více akcionáři není akcionářská struktura v OR vůbec zapsána (akcionáři jsou jen v seznamu akcionářů v emisi listinných akcií nebo v evidenci CDCP u zaknihovaných akcií). Pro běžnou a. s. proto automatický průpis **nemůže** fungovat — vyžaduje aktivní zápis nebo náhradní určení podle § 5 (osoba ve vrcholném vedení).
@@ -2995,6 +3015,11 @@ U v. o. s. s nejvýše 3 společníky se propíše každý společník (s. ficti
 #### § 38 odst. 4 — spolky, SVJ, družstva (specifická)
 
 Široký výčet: **spolky, pobočné spolky, zahraniční pobočné spolky, ZSPO, MNO, SVJ, odborové organizace, organizace zaměstnavatelů, okresní a regionální komory, bytová a sociální družstva**. U všech se propisují **členové statutárního orgánu** (podle § 4 odst. 5 ZESM se u nich uplatňuje vyvratitelná domněnka, že každý člen statutárního orgánu má rozhodující vliv).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 Afs 300/2024 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739157) — 20. 2. 2025
+  > „…městský soud z úpravy obsažené v ZESM sice vycházel, pojem „skutečný spolumajitel“, použitý v čl. 5.4. výzvy, od zákonného pojmu „skutečný majitel“ nicméně správně odlišil. Vlastník, byť jen jediné akcie určité akciové společnosti, se proto automaticky nestává „skutečným majitelem“ takové společnosti ve smyslu ZESM…"
 
 #### § 38 odst. 5 — honební společenstva, politické strany/hnutí, církve
 
@@ -4044,6 +4069,13 @@ Paragraf 54 paralyzuje výkon hlasovacích práv nezapsaného skutečného majit
 > *(3) Za přestupky podle odstavce 1 nebo 2 lze uložit pokutu do 500 000 Kč.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 219/2024 - 96](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739804) — 12. 3. 2025
+  > „…nelze ani v posuzovaném případě trestat stěžovatelku za nesplnění povinnosti, jejímž nutným následkem by bylo porušení základních práv jejích skutečných majitelů. … je na její jednání nutno nadále pohlížet jako na protiprávní, ovšem v důsledku rozporu § 14 odst. 1 zákona o evidenci skutečných majitelů s unijním primárním právem, resp. s ohledem na přímý účinek čl. 30 odst. 5 písm. c) změnové AML Směrnice ve znění po předmětném zrušujícím rozsudku SD EU, není u jejího jednání splněna podmínka společenské škodlivosti"
+- *NSS* [8 As 76/2025 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745427) — 25. 9. 2025
+  > „…se nejedná o společensky škodlivé protiprávní jednání, pokud evidující osoba v rozporu s § 9 odst. 1 zákona o evidenci skutečných majitelů neoznámila o svém skutečném majiteli zákonem požadované údaje s cílem předejít porušení jeho práva na soukromý a rodinný život a na ochranu osobních údajů. … Společenská škodlivost je pojmovým znakem přestupku (§ 5 přestupkového zákona); pokud chybí, nejedná se o přestupek"
 
 #### Tři skutkové podstaty
 
