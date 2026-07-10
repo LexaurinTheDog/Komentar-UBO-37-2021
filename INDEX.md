@@ -18,3 +18,7 @@
 
 ## Vazby
 [AML 253/2008](/home/vojtech/Komentar-AML-253-2008/), [ZOK 90/2012](/home/vojtech/Komentar-ZOK-90-2012/), ZVR 304/2013.
+
+## Zásady z místní judikatury
+
+- [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.
