@@ -145,3 +145,151 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | rozhodne; soud může | [§ 19](https://e-sbirka.gov.cz/sb/2021/37#par_19); [§ 23](https://e-sbirka.gov.cz/sb/2021/37#par_23); [§ 29](https://e-sbirka.gov.cz/sb/2021/37#par_29); [§ 30](https://e-sbirka.gov.cz/sb/2021/37#par_30) |
 | Oprávnění a povinnost | má právo; povinnost; musí | [§ 4](https://e-sbirka.gov.cz/sb/2021/37#par_4); [§ 8](https://e-sbirka.gov.cz/sb/2021/37#par_8); [§ 9](https://e-sbirka.gov.cz/sb/2021/37#par_9) |
 | Domněnky, fikce a účinkové konstrukce | má se za to; platí, že | [§ 4](https://e-sbirka.gov.cz/sb/2021/37#par_4); [§ 5](https://e-sbirka.gov.cz/sb/2021/37#par_5); [§ 6](https://e-sbirka.gov.cz/sb/2021/37#par_6) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 37/2021 Sb., o evidenci skutečných majitelů (UBO/ZESM) — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality vyjadřují způsob, jímž norma spojuje s jednáním deontický status. Klasická nauka rozeznává tři základní **objektivní modality** (deontické operátory): **příkaz** (jednání je povinné — je nutné je konat), **zákaz** (jednání je zakázané — je nutné je opomenout) a **dovolení** (jednání je dovolené — smí, ale nemusí být konáno). Tyto tři operátory jsou navzájem definovatelné pomocí negace: zákaz je příkazem opomenutí, dovolení je negací zákazu. V ZESM se objektivní modality projevují jako plošně formulované strukturní povinnosti (kdo, co a kdy má činit) — typicky získat a zaznamenat údaje (§ 8), podat návrh na zápis (§ 9), poskytnout součinnost (§ 10).
+
+Zvláštní postavení mají **zmocnění** (kompetenční, resp. pravomocné normy). Zmocnění nezakládá povinnost adresáta konat, nýbrž propůjčuje orgánu veřejné moci **pravomoc** vyvolat normativní následek (např. uložit pokutu, zpřístupnit údaje). Kompetenční norma je proto svou logickou strukturou odlišná od příkazu: aktivuje se jako „smí a je oprávněn" na straně nositele veřejné moci, přičemž výkon pravomoci bývá zároveň jeho úřední povinností (vázanost účelem zákona). V ZESM jsou zmocněním např. veřejné zpřístupnění výpisu ministerstvem (§ 14 odst. 1) a sankční pravomoc správního orgánu (§ 55 odst. 3).
+
+**Subjektivní modality** popisují právní vztah dvou stran: oprávnění jedné strany (subjektivní právo) je korelativně spjato s povinností strany druhé (korelativita práva a povinnosti — Hohfeldova souvztažnost claim/duty). ZESM tuto korelaci názorně ukazuje ve dvojici součinnostní povinnosti skutečného majitele a osob v řetězci (§ 10) na jedné straně a evidenční povinnosti evidující osoby (§ 8, § 9) na straně druhé; subsidiární oprávnění osoby s právním zájmem podat návrh (§ 26 odst. 3) je pak subjektivním právem vynutit zápis, aktivujícím se při nečinnosti povinného.
+
+**Normativní výrazy** jsou jazykové znaky, jimiž zákonodárce modalitu vyjadřuje: „musí", „je povinen", „poskytnou", „získává a zaznamenává", „uchovává" (příkaz/povinnost); „nelze", „nepřihlíží se", „nesmí" (zákaz); „může", „lze", „umožní komukoli" (dovolení, oprávnění, zmocnění). Zvláštní skupinu tvoří výrazy zakládající **domněnky a fikce**. Vyvratitelná domněnka („má se za to, že") stanoví závěr, který platí, dokud není prokázán opak — přesouvá důkazní břemeno na toho, kdo domněnku popírá. Nevyvratitelná domněnka a **právní fikce** („platí, že") naopak protidůkaz vylučují: fikce spojuje s určitou skutečností následek i tam, kde ve skutečnosti nenastala. ZESM využívá obou technik — vyvratitelnou domněnku personálního vlivu (§ 4 odst. 4), vyvratitelnou domněnku splnění při automatickém průpisu (§ 9 odst. 2) a nevyvratitelnou fikci splnění při náhradním určení (§ 9 odst. 3).
+
+### Příkaz a povinnost
+
+Příkazové a povinnostní normy tvoří v ZESM materiální jádro celého evidenčního mechanismu. Deontický operátor příkazu se zde neváže na jednorázový úkon, nýbrž na kontinuální stav souladu evidence se skutečností: evidující osoba musí trvale zajišťovat úplnost, přesnost a aktuálnost údajů. Zákon proto řetězí několik na sebe navazujících povinností — nejprve **interní zjištění a zaznamenání** údajů (§ 8 odst. 1: „získává a zaznamenává"), poté jejich **retenci** (§ 8 odst. 3: „uchovává"), a konečně **externí projekci do rejstříku** návrhem na zápis (§ 9 odst. 1: „musí … podat bez zbytečného odkladu").
+
+Charakteristickým rysem této skupiny je kvantifikace neurčitého časového určení: neurčitá lhůta „bez zbytečného odkladu" je pro účely zápisové povinnosti fakticky vyčíslena patnáctidenní hranicí (§ 26 odst. 3), jejíž zmeškání aktivuje subsidiární legitimaci třetích osob i sankční odpovědnost. Retenční povinnost (§ 8 odst. 3) je synchronizována s desetiletou lhůtou AML úpravy, čímž je zajištěna zpětná dohledatelnost skutečných majitelů pro účely vyšetřování a kontrol.
+
+Zvláštní kategorií jsou **zrcadlové (součinnostní) povinnosti** adresované nikoli evidující osobě, ale samotnému skutečnému majiteli a osobám v řetězci (§ 10: „poskytnou … potřebnou součinnost"). Jde o povinnost strukturně podmiňující splnitelnost povinnosti hlavní: bez součinnosti fyzických osob v řetězci by evidující osoba nemohla dostát § 8 a § 9. Porušení součinnostní povinnosti proto přesouvá odpovědnost na skutečného majitele.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 8 odst. 1 | získává a zaznamenává | „Evidující osoba o svém skutečném majiteli … získává a zaznamenává úplné, přesné a aktuální údaje podle § 13 písm. a) až g)." | Hmotněprávní jádro — interní zjištění a dokumentace údajů před zápisem |
+| § 8 odst. 3 | uchovává | „Evidující osoba uchovává údaje podle odstavců 1 a 2 po dobu, po kterou je fyzická osoba skutečným majitelem, a dále 10 let od zániku jejího postavení skutečného majitele." | Desetiletá retenční povinnost pro retrospektivní dohledání |
+| § 9 odst. 1 | musí … podat bez zbytečného odkladu | „Návrh na zahájení řízení o zápisu podle § 20 … musí evidující osoba podat bez zbytečného odkladu po vzniku rozhodné skutečnosti." | Procesní zápisová povinnost udržet evidenci ve shodě se skutečností |
+| § 10 | poskytnou … potřebnou součinnost | „Skutečný majitel a osoba, jejímž prostřednictvím právnická osoba nebo právní uspořádání jsou vlastněny nebo kontrolovány, poskytnou evidující osobě … potřebnou součinnost" | Zrcadlová povinnost umožnit splnění evidenčních povinností |
+
+Judikatura opakovaně řešila právě porušení zápisové povinnosti podle § 9 odst. 1 jako skutkovou podstatu přestupku.
+
+- *NSS* [10 A 151/2023 - 53](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/738371) — rozsudek z 19. 12. 2024, přestupek za nesplnění zápisové povinnosti (§ 9 odst. 1)
+  > „S-MHMP 1321188/2023 (dále jen „prvostupňové rozhodnutí"), kterým uznal žalobkyni vinnou z přestupku podle ustanovení § 55 odst. 1 písm. a) zákona č. 37/2021 Sb., o evidenci skutečných majitelů (dále jen „zákon o evidenci skutečných majitelů"), kterého se dopustila tím, že v rozporu s ustanovením § 9 odst. 1 zákonem o evidenci skutečných majitelů ani ve lhůtě stanovené soudem, do 30 dnů ode dne do"
+
+### Zákaz
+
+Zákaz jako deontický operátor v ZESM neplní roli plošné prohibice chování, nýbrž **negativně vymezuje** hranice určovacích a procesních institutů. Prvním typem je **materiální vylučovací zákaz** ve formě příkazu nezohledňovat určité skutečnosti: § 4 odst. 7 stanoví, že se při určení skutečného majitele investičního fondu (SICAV) „nepřihlíží" k investičním akciím. Normativní výraz „nepřihlíží se" je zvláštní formou zákazu adresovaného aplikujícímu subjektu — zapovídá zohlednění určité okolnosti v myšlenkovém postupu určení. Účelem je zabránit tomu, aby byli běžní investoři formálně považováni za skutečné majitele jen kvůli držbě investičních akcií.
+
+Druhým typem je **procesní pořádkový zákaz** vymezující posloupnost úkonů: § 26 odst. 2 stanoví, že návrh na zápis do ESM „nelze podat" před zahájením rejstříkového řízení. Výraz „nelze podat" fixuje závazné pořadí (nejprve veřejný rejstřík / evidence svěřenských fondů, teprve poté ESM) a chrání konzistenci mezi registry.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 4 odst. 7 | nepřihlíží se | „Pro účely určení skutečného majitele investičního fondu v právní formě akciové společnosti s proměnným základním kapitálem se nepřihlíží k investičním akciím" | Vylučovací zákaz — zapovídá zohlednit investiční akcie SICAV |
+| § 26 odst. 2 | nelze podat | „návrh na zápis však nelze podat před zahájením řízení o jejich zápisu do veřejného rejstříku nebo evidence svěřenských fondů" | Procesní pořádkový zákaz předčasného návrhu |
+
+Logiku vylučovacího přístupu (držba dílčího podílu automaticky nezakládá postavení skutečného majitele) potvrdil NSS na výkladu prahové hranice.
+
+- *NSS* [7 Afs 300/2024 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739157) — rozsudek z 20. 2. 2025, odlišení „skutečného spolumajitele" od zákonného pojmu skutečného majitele
+  > „městský soud z úpravy obsažené v ZESM sice vycházel, pojem „skutečný spolumajitel", použitý v čl. 5.4. výzvy, od zákonného pojmu „skutečný majitel" nicméně správně odlišil. Vlastník, byť jen jediné akcie určité akciové společnosti, se proto automaticky nestává „skutečným majitelem" takové společnosti ve smyslu ZESM"
+
+### Dovolení
+
+Dovolení (permise) je v ZESM zastoupeno střídměji než příkazy a zákazy, což odpovídá regulatorní, převážně povinnostní povaze předpisu. Projevuje se především jako **procesní facultas** — možnost, nikoli nutnost, určitého jednání. Nejvýraznějším příkladem je subsidiární legitimace osoby s právním zájmem podle § 26 odst. 3 („může návrh podat každý, kdo … osvědčí právní zájem"), která je z pohledu oprávněné osoby dovolením (smí, ale nemusí) a z pohledu systému nástrojem sekundárního vynucení evidence. Dovolení zde má akcesorickou povahu — aktivuje se teprve zmeškáním patnáctidenní lhůty evidující osobou.
+
+Od dovolení je třeba odlišit **veřejnoprávní zmocnění** vyjádřené výrazy „umožní" či „lze", byť se jazykově podobají permisi (viz sekce Zmocnění). Zatímco dovolení ponechává adresátovi volbu, zmocnění zakládá pravomoc orgánu, jejíž výkon je zároveň vázán účelem zákona. Tato hranice je pro ZESM klíčová: veřejná přístupnost údajů (§ 14 odst. 1) není libovolnou permisí ministerstva, nýbrž kompetenčně-příkazní normou s unijně-právní mezí.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 26 odst. 3 | může návrh podat | „…může návrh na zápis podat každý, kdo na něm osvědčí právní zájem" | Procesní facultas třetí osoby — dovolené (nikoli povinné) jednání |
+
+### Zmocnění (kompetenční normy)
+
+Zmocnění zakládají pravomoc orgánu veřejné moci vyvolat normativní následek; adresátem není povinnostní subjekt, nýbrž nositel veřejné moci. V ZESM lze rozlišit dva typy. Prvním je **transparenční zmocnění** ministerstva k veřejnému zpřístupnění vymezeného rozsahu údajů (§ 14 odst. 1: „ministerstvo umožní komukoli"). Ačkoli výraz „umožní" zní permisivně, jde o kompetenčně-příkazní normu — ministerstvo je povinno zpřístupnění zajistit. Právě mez tohoto zmocnění (kolize s ochranou soukromí po zrušení čl. 30 odst. 5 AMLD Soudním dvorem EU) řešila správní judikatura.
+
+Druhým typem je **sankční zmocnění** správního orgánu k uložení veřejnoprávní pokuty (§ 55 odst. 3: „lze uložit pokutu do 500 000 Kč"). Výraz „lze uložit" propůjčuje pravomoc, jejíž výkon je vázán zásadami správního trestání; její účinnost je posilována souběhem se soukromoprávními sankcemi (zákaz výplaty zisku). Deontická struktura sankčního zmocnění se aktivuje až naplněním skutkové podstaty přestupku — samo o sobě adresátům nic nepřikazuje.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 14 odst. 1 | ministerstvo umožní komukoli | „Ministerstvo umožní komukoli na svých internetových stránkách získat z evidence skutečných majitelů částečný výpis platných údajů" | Kompetenčně-příkazní norma o veřejné přístupnosti údajů |
+| § 55 odst. 3 | lze uložit pokutu | „Za přestupky podle odstavce 1 nebo 2 lze uložit pokutu do 500 000 Kč." | Sankční pravomoc správního orgánu uložit veřejnoprávní pokutu |
+
+Klíčovým judikátem je rozhodnutí NSS, které mez zmocnění podle § 14 odst. 1 promítlo do materiálního znaku přestupku podle § 55.
+
+- *NSS* [4 As 219/2024 - 96](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739804) — rozsudek z 12. 3. 2025, rozpor § 14 odst. 1 s unijním primárním právem a jeho dopad na trestnost
+  > „nelze ani v posuzovaném případě trestat stěžovatelku za nesplnění povinnosti, jejímž nutným následkem by bylo porušení základních práv jejích skutečných majitelů."
+
+Materiální korekci sankčního zmocnění (absence společenské škodlivosti jako pojmového znaku přestupku) potvrdil NSS i v dalším rozhodnutí.
+
+- *NSS* [8 As 76/2025 - 43](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/745427) — rozsudek z 25. 9. 2025, chybějící společenská škodlivost při ochraně soukromí skutečného majitele
+  > „se nejedná o společensky škodlivé protiprávní jednání, pokud evidující osoba v rozporu s § 9 odst. 1 zákona o evidenci skutečných majitelů neoznámila o svém skutečném majiteli zákonem požadované údaje s cílem předejít porušení jeho práva na soukromý a rodinný život a na ochranu osobních údajů."
+
+### Oprávnění a povinnost (subjektivní modality a korelativita)
+
+Subjektivní modality vyjadřují právní vztah dvou stran, v němž oprávnění jedné strany je korelativně spjato s povinností strany druhé. ZESM tuto souvztažnost buduje jako vícevrstvý systém pojistek proti nesouladu evidence se skutečností. Základní osu tvoří **evidenční povinnost** evidující osoby (§ 8, § 9) korelativně doplněná **součinnostní povinností** skutečného majitele a osob v řetězci (§ 10) — obě strany jsou vzájemně vázány, aby byl výsledek (pravdivý zápis) dosažitelný.
+
+Na tuto povinnostní osu navazuje **subsidiární oprávnění** osoby s právním zájmem (§ 26 odst. 3): nepodá-li evidující osoba návrh do 15 dnů, může návrh podat každý, kdo osvědčí právní zájem (věřitel, společník, AML povinná osoba). Jde o subjektivní právo třetí osoby vynutit soulad evidence, aktivované nečinností primárně povinného subjektu. Korelativita je zde nepřímá: oprávnění třetí osoby se opírá o přetrvávající povinnost evidující osoby, kterou tato nesplnila.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 10 | poskytnou … potřebnou součinnost | „Skutečný majitel a osoba, jejímž prostřednictvím právnická osoba nebo právní uspořádání jsou vlastněny nebo kontrolovány, poskytnou evidující osobě … potřebnou součinnost" | Povinnost korelativní k evidenční povinnosti; její porušení přenáší odpovědnost |
+| § 26 odst. 3 | může návrh podat každý, kdo osvědčí právní zájem | „Nepodá-li evidující osoba návrh na zápis do 15 dnů ode dne, kdy jí povinnost vznikla, může návrh na zápis podat každý, kdo na něm osvědčí právní zájem" | Subsidiární subjektivní oprávnění třetí osoby vynutit zápis |
+| § 8 odst. 1 | získává a zaznamenává | „Evidující osoba o svém skutečném majiteli … získává a zaznamenává úplné, přesné a aktuální údaje podle § 13 písm. a) až g)." | Primární evidenční povinnost, k níž se váže součinnost dle § 10 |
+
+Vynucovací rovinu subjektivních povinností (patnáctidenní, resp. soudem stanovená lhůta a její zmeškání) dokládá judikatura NSS ke správnímu trestání.
+
+- *NSS* [3 As 280/2024 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746527) — rozsudek z 29. 10. 2025, nesplnění zápisové povinnosti ve lhůtě stanovené soudem
+  > „S MHMP 990504/2023, kterým byla žalobkyně uznána vinnou ze spáchání přestupku podle § 55 odst. 1 písm. a) zákona č. 37/2021 Sb., o evidenci skutečných majitelů, ve znění pozdějších předpisů (dále jen „zákon o evidenci skutečných majitelů"), kterého se měla dopustit tím, že v rozporu s § 9 odst. 1 uvedeného zákona nezajistila ve lhůtě 30 dnů stanovené soudem podle"
+
+### Domněnky a fikce
+
+Domněnky a fikce jsou nástroji, jimiž zákon nahrazuje nebo přesouvá dokazování určité skutečnosti. **Vyvratitelná domněnka** („má se za to, že") stanoví závěr platný do prokázání opaku a přesouvá důkazní břemeno na toho, kdo ji popírá; **nevyvratitelná domněnka a fikce** („platí, že") protidůkaz vylučují. ZESM obou technik využívá s citlivou distribucí důkazního břemene.
+
+Materiálním jádrem je **vyvratitelná domněnka rozhodujícího vlivu** (§ 4 odst. 4): má se za to, že rozhodující vliv uplatňuje ten, kdo může jmenovat či odvolat většinu členů statutárního orgánu. Domněnka zavádí personální (nikoli jen kapitálové) kritérium kontroly — kdo popírá své postavení skutečného majitele, nese břemeno vyvrácení.
+
+V rovině splnění zápisové povinnosti zákon rozlišuje **vyvratitelnou domněnku splnění** při automatickém průpisu (§ 9 odst. 2: „má se za to, že") a **nevyvratitelnou fikci splnění** při náhradním určení (§ 9 odst. 3: „platí, že"). První chrání evidující osobu tam, kde zápis proběhl bez její aktivity (automatický průpis dle § 37, 38, § 41 odst. 3); druhá — silnější, s ochrannou klauzulí — kryje osobu, která při vynaložení veškerého rozumného úsilí nedohledala materiálního skutečného majitele.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+|---|---|---|---|
+| § 4 odst. 4 | má se za to, že | „Má se za to, že rozhodující vliv v korporaci uplatňuje ten, kdo může jmenovat nebo odvolat většinu osob, které jsou členy statutárního orgánu korporace." | Vyvratitelná domněnka personálního rozhodujícího vlivu |
+| § 9 odst. 2 | má se za to, že | „Má se za to, že evidující osoba povinnost podle odstavce 1 věty první splnila, byl-li její skutečný majitel … automaticky propsán podle § 37, 38 nebo § 41 odst. 3." | Vyvratitelná domněnka splnění při automatickém průpisu |
+| § 9 odst. 3 | platí, že | „Platí, že evidující osoba povinnost podle odstavce 1 věty první splnila, je-li v evidenci skutečných majitelů zapsán skutečný majitel podle § 5 odst. 1 písm. a) nebo § 5 odst. 3" | Nevyvratitelná fikce splnění s ochrannou klauzulí |
+
+Techniku právní fikce (výraz „platí, že") a s ní spojený omezený rozsah přezkumu ilustruje NSS na registračním principu podle § 29.
+
+- *NSS* [11 A 130/2024 - 56](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/740319) — rozsudek z 12. 3. 2025, registrační princip a rozsah přezkumu návrhu na zápis (§ 29)
+  > „Podle § 29 zákona č. 37/2021 Sb. platí, že nebyl-li návrh na zápis odmítnut, soud zkoumá, zda údaje o skutečnostech, které se do evidence skutečných majitelů zapisují, vyplývají z písemností, které byly k návrhu na zápis doloženy, nebo z údajů zjistitelných z informačníh"
+
+Vyvratitelnost domněnky vlivu (nedosažení prahových kritérií vylučuje postavení skutečného majitele) potvrzuje výklad prahové hranice v judikatuře NSS.
+
+- *NSS* [8 Afs 168/2024 - 79](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/739118) — rozsudek z 19. 2. 2025, nesplnění prahových požadavků § 4 odst. 1 písm. a)
+  > „[4] Městský soud dospěl k závěru, že pan D. nesplňuje požadavky § 4 odst. 1 písm. a) zákona č. 37/2021 Sb., o evidenci skutečných majitelů (dále jen „ZESM"), neboť jeho podíl na žalobkyni je nižší, než je uvedeno v daném ustanovení (podíl větší než 25 %)"
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality ZESM nepůsobí izolovaně, nýbrž se v jednotlivých institutech skládají do funkčních řetězců. **Určovací institut** (kdo je skutečným majitelem) je vystavěn na kombinaci vyvratitelné domněnky vlivu (§ 4 odst. 4: „má se za to, že") a vylučovacího zákazu (§ 4 odst. 7: „nepřihlíží se"). Pozitivní domněnka rozšiřuje okruh materiálních kritérií, negativní zákaz jej koriguje vyloučením formálních držitelů (investiční akcie SICAV). Výsledkem je materiální, nikoli čistě formální test kontroly.
+
+**Evidenční institut** kombinuje řetěz příkazů a povinností (§ 8 odst. 1 „získává a zaznamenává" → § 8 odst. 3 „uchovává" → § 9 odst. 1 „musí … podat") se zrcadlovou součinnostní povinností (§ 10 „poskytnou … potřebnou součinnost"). Splnitelnost hlavní povinnosti je tak podmíněna povinností korelativní; jejich souhra je stabilizována dvěma fikcemi/domněnkami splnění (§ 9 odst. 2 a § 9 odst. 3), které chrání evidující osobu tam, kde výsledku nemohla aktivně dosáhnout.
+
+**Vynucovací institut** propojuje procesní pořádkový zákaz (§ 26 odst. 2: „nelze podat" — pořadí zápisů), subsidiární oprávnění třetí osoby (§ 26 odst. 3: „může návrh podat") a sankční zmocnění (§ 55 odst. 3: „lze uložit pokutu"). Zmeškání patnáctidenní lhůty tak současně otevírá dovolení třetí osoby a aktivuje sankční pravomoc — dvě modality reagující na tentýž skutkový základ.
+
+**Transparenční institut** stojí na zmocnění ministerstva ke zpřístupnění údajů (§ 14 odst. 1: „ministerstvo umožní komukoli"), jehož mez je dána unijně-právní korekcí. Kombinace kompetenční normy (§ 14 odst. 1) a sankčního zmocnění (§ 55 odst. 3) přitom v judikatuře vyústila v materiální korekci trestnosti: rozpor zmocnění s unijním právem vylučuje společenskou škodlivost jednání, byť zůstává formálně protiprávní.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+|---|---|---|
+| Příkaz | „získává a zaznamenává", „musí … podat bez zbytečného odkladu" | § 8 odst. 1, § 9 odst. 1 |
+| Povinnost | „uchovává", „poskytnou … potřebnou součinnost" | § 8 odst. 3, § 10 |
+| Zákaz | „nepřihlíží se", „nelze podat" | § 4 odst. 7, § 26 odst. 2 |
+| Dovolení | „může návrh podat" | § 26 odst. 3 |
+| Zmocnění (kompetenční normy) | „ministerstvo umožní komukoli", „lze uložit pokutu" | § 14 odst. 1, § 55 odst. 3 |
+| Oprávnění (subjektivní právo) | „může návrh podat každý, kdo osvědčí právní zájem" | § 26 odst. 3 |
+| Domněnka (vyvratitelná) | „má se za to, že" | § 4 odst. 4, § 9 odst. 2 |
+| Fikce / nevyvratitelná domněnka | „platí, že" | § 9 odst. 3 |
